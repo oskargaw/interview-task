@@ -1,0 +1,25 @@
+.add-new-user-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.add-new-user-input__label {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-right: 0.5rem;
+}
+
+.add-new-user-input__button {
+  background-color: #333333;
+  box-shadow: 2px 0px 23px -7px rgba(66, 68, 90, 1);
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  margin-left: 1rem;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 500;
+  outline: none;
+}
